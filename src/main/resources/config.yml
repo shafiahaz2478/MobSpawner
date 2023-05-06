@@ -1,0 +1,5 @@
+mob: "ALLAY"
+cooldown: 20
+
+#this part is reserved for saving data
+data:

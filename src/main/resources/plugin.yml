@@ -2,3 +2,6 @@ name: MobSpawner
 version: '${project.version}'
 main: me.shafi.mobspawner.MobSpawner
 api-version: 1.19
+commands:
+  item:
+    description: spawns the item
